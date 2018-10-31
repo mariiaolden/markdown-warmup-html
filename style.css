@@ -1,36 +1,27 @@
 body {
-background: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4437565.jpg);
+  background: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4437565.jpg);
+  font-style:italic;
+  font-family: "Courier New", Courier, monospace;
 }
 
 h1 {
-  font-family: "Courier New", Courier, monospace;
   color: #FFF000;
-  align: center;
-  font-style:italic;
   font-family: fantasy;
 }
 
 li {
   color: #FFF;
-  font-style:italic;
   font-family: fantasy;
-  font-family: "Courier New", Courier, monospace;
 }
 
 p {
-  font-style:italic;
-  font-family: "Courier New", Courier, monospace;
   color: #FFF
 }
 
 h3 {
-  font-style:italic;
-  font-family: "Courier New", Courier, monospace;
   color: #FFF000
 }
 
 a {
-  font-style:italic;
-  font-family: "Courier New", Courier, monospace;
   color: #FFF
 }
