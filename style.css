@@ -14,14 +14,10 @@ li {
   font-family: fantasy;
 }
 
-p {
+p a {
   color: #FFF
 }
 
 h3 {
   color: #FFF000
-}
-
-a {
-  color: #FFF
 }
